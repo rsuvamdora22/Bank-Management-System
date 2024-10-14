@@ -46,4 +46,4 @@
 ![Screenshot 2024-10-14 133043](https://github.com/user-attachments/assets/bbc6d02b-c77e-4e24-8b53-c39ae71fbecf)
 
 # ThankYou for your time
-# For Collaboration : rsuvamdora22101@outlook.com
+ For Collaboration : rsuvamdora22101@outlook.com
