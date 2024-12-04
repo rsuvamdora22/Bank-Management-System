@@ -6,8 +6,7 @@
 # UI VIEW :-
 
 # Registration Form -
-![Screenshot 2024-10-14 130948](https://github.com/user-attachments/assets/7f351799-de3c-4cee-a5a1-0038b2f5a2a7)
-![Screenshot 2024-10-14 131041](https://github.com/user-attachments/assets/5fb287bf-305a-4eb8-8bb9-17af684a4b21)
+![Screenshot 2024-12-05 003942](https://github.com/user-attachments/assets/d6ee2eeb-a11c-4685-8d47-aa439beedfe6)
 
 # Creation of Account Number -
 ![Screenshot 2024-10-14 131541](https://github.com/user-attachments/assets/03ff3abf-9861-4f92-9b64-40f6579388b8)
@@ -20,7 +19,7 @@
 
 # Amount Transfer Page -
 ![Screenshot 2024-10-14 132019](https://github.com/user-attachments/assets/fd81ed42-6b42-41e0-9181-5cfb7fb00951)
-![Screenshot 2024-10-14 132050](https://github.com/user-attachments/assets/3b05e2fc-29c7-42ce-ac29-7d978be9c1c1)
+![Screenshot 2024-12-05 004348](https://github.com/user-attachments/assets/7810047b-ef04-4cbc-98fa-200a9cbe854b)
 
 # Amount Deposit Page -
 ![Screenshot 2024-10-14 132149](https://github.com/user-attachments/assets/e7ca426b-18b7-4a9b-b881-8a4b79807944)
@@ -30,7 +29,7 @@
 ![Screenshot 2024-10-14 132335](https://github.com/user-attachments/assets/333e40d6-3130-4a74-bd49-6326eb65148d)
 ![Screenshot 2024-10-14 132400](https://github.com/user-attachments/assets/ba5ad572-8715-42d1-9ffa-d57087950a1e)
 
-# PIN incorrect alert -
+# PIN incorrect Alert -
 ![Screenshot 2024-10-14 132535](https://github.com/user-attachments/assets/8f01ecae-19bb-4915-abf3-df88a99259f2)
 
 # Forget PIN Page -
